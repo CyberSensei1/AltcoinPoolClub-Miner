@@ -3,6 +3,7 @@
 An optimized fork of ccminer developed specially for https://www.altcoinpool.club
 
 Based on Christian Buchner's &amp; Christian H.'s CUDA project, no longer active on github since 2014.
+and  [brian112358](https://github.com/brian112358)
 
 Check the [README.txt](README.txt) for the additions
 
